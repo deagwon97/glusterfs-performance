@@ -16,7 +16,7 @@
     - QFX5210 SWITCH, jupyter
     - bandwidht: 40GBps
 - HDD
-    - RAID Controller: MegaRAID SAS-3 3108(64 bits width, 66MHz clock, 528 MB/s)
+    - RAID Controller: MegaRAID SAS-3 3108(64 bits width, 33MHz clock, 264 MB/s)
     - disk: INSPUR, AVAGO, 25TiB (27TB), ansiversion=5 logicalsectorsize=512 mount.fstype=xfs mount.options=rw,relatime,attr2,inode64,sunit=512,swidth=512,noquota sectorsize=4096 **24EA(3EA per nodes)**
 
 ## 실험 구성
