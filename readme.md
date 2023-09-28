@@ -2,7 +2,7 @@
 
 다양한 glusterfs 조합에서 파일 I/O 성능을 실험하기 위해 시작한 프로젝트 입니다. 자세한 설명은 아래 링크를 참고하시기 바랍니다.
 
-[NFS에서 분산 파일 시스템 Glusterfs로 전환](https://deagwon.com/post/NFS에서 분산 파일 시스템 Glusterfs로 전환)
+[NFS에서 분산 파일 시스템 Glusterfs로 전환](https://deagwon.com/post/NFS에서%20분산%20파일%20시스템%20Glusterfs로%20전환)
 
 
 ## 실험 목적
